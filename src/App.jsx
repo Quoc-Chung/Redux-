@@ -1,10 +1,9 @@
-import React from 'react';
-import LoginButton from './components/LoginButton';
-import Welcome from './components/Welcome';
+
 
 function App() {
   return (
      <> 
+     <h1> XIN CHAO QUOC CHUNG </h1>
      </>
   );
 }
