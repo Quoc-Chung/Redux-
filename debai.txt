@@ -1,0 +1,17 @@
+Danh sách sản phẩm
+
+Giỏ hàng
+
+Tổng tiền
+
+Tăng/giảm số lượng
+
+
+- Có các action : 
+
+   + Tăng số lượng  
+   + Giảm số lượng  
+
+   + Thêm vào giỏ hàng  
+   + Xóa khỏi giỏ hàng  
+   
