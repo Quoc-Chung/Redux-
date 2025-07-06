@@ -1,0 +1,33 @@
+Rất hay! Nếu bạn đã làm bài giỏ hàng rồi, thì mình sẽ cho bạn một dạng bài Redux 
+Toolkit khác — quản lý danh sách học sinh, có thể:
+
+Thêm học sinh
+
+Sua hoc sinh 
+
+Xoá học sinh
+
+Tăng/giảm điểm học sinh
+
+Lọc ra học sinh giỏi (điểm >= 8)
+
+- Phân tích : store lưu trữ một mảng học sinh 
+
+- có các hành động : 
+
+  + Thêm học sinh 
+  + Sửa học sinh 
+  + Xóa học sinh 
+  + Tính điểm trung binh của học sinh 
+  + Tăng / giảm điểm của học sinh 
+
+interface HocSinh {
+    id: String, 
+    name: String, 
+    email: String, 
+    diem: {
+        toan : number, 
+        ly: number, 
+        hoa: number,
+    }
+}
