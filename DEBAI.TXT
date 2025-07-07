@@ -1,0 +1,14 @@
+src/
+├── App.jsx
+├── index.jsx
+├── store/
+│   └── authSlice.js
+│   └── index.js
+├── components/
+│   ├── Header.jsx
+│   └── ProtectedRoute.jsx
+├── pages/
+│   ├── LoginPage.jsx
+│   ├── HomePage.jsx
+│   ├── ManageUser.jsx
+│   └── ManageNhanVien.jsx
